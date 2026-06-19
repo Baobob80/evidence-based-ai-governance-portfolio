@@ -38,7 +38,48 @@ Design and study AI systems where:
 Core principle:
 
 > Demonstration is stronger than declaration.
+## Start Here
 
+If you are reviewing this portfolio for the first time, use the following path:
+
+### 1. Flagship Projects
+
+- Controlled Email Intake Engine (CEIE)
+- Autonomy Readiness Checker (ARC)
+
+These projects represent the strongest implementation evidence currently contained in this portfolio.
+
+### 2. Tier 1 Evidence
+
+See:
+
+- TIER1_EVIDENCE.md
+
+This document identifies the strongest evidence artifacts across projects, publications and research.
+
+### 3. Traceability
+
+See:
+
+- TRACEABILITY_INDEX.md
+
+This document connects claims to repositories, artifacts and verifiable evidence.
+
+### 4. External Validation
+
+See:
+
+- EXTERNAL_VALIDATION_MAP.md
+
+This document maps governance concepts to external architectural and governance discussions.
+
+### 5. Portfolio Review
+
+See:
+
+- PORTFOLIO_REVIEW_001.md
+
+This document summarizes strengths, weaknesses, risks and current maturity of the portfolio.
 ---
 
 ## Governance Philosophy
